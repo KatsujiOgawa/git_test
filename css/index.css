@@ -1,0 +1,36 @@
+
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+p.sub-title1{
+    color:dodgerblue
+}
+
+p#sub-title2{
+    color: firebrick;
+}
+
+span.paragraph-info{
+    font-weight: bold;
+}
+
+div.box1{
+    background-color: forestgreen;
+    height: 400px;
+    width:300px
+}
+
+div.box2{
+    background-color: gold;
+    height: 400px;
+    width:300px
+}
+
+div.box3{
+    background-color: hotpink;
+    height: 400px;
+    width:300px
+}
